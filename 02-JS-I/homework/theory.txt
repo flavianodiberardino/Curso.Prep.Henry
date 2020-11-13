@@ -1,0 +1,16 @@
+* Variables: una variable es como una cajita donde guardamos objetos y a cada uno de estos objetos se les puede asignar un valor global o podemos
+             asignarle un valor distinto cada vez que lo queramos usar, depende de la situacion. Estos valores pueden ser texto o numeros.
+* Strings: un string es sencillamente texto dentro de dos comillas ("") o (''), al encerar texto entre comillas creamos a lo que llamariamos
+           una cadena o string.
+* Funciones: las funciones son los lugares donde le damos uso a las variables, una vez declaradas nuestras variables con la funcion le decimos al
+             programa que hacer con ellas y como emplearlas.
+* Declaraciones: imaginemos que tu mama te dice que va a regalar un chocolate pero, con una condicion, tienes que limpiar tu cuarto antes si no
+                 no te dara el chocolate. Bueno, cuando declaras condicionales funciona muy parecido, si una condicion se cumple obtienes algo,
+                 si no, obtienes otra cosa.
+* Valores booleanos: supongamos que tienes 10 años de edad y alguien te pregunta "¿Es verdad que tienes 12 años?" a lo que tu responderias "No,
+                     eso es falso" y luego viene otra persona y te pregunta "¿Es verdad que tienes 10 años?" a lo que responderias "Si! Eso es verdad".
+                     Bueno, mas o menos asi funcionan los booleanos, son un tipo de dato que funciona de manera tal que si le dices una verdad te dice "true"
+                     pero si le dices una mentira te dice "false".
+
+
+Nota: perdon por lo poco formal de las definiciones y es que a peticion de la tarea lo tuve que hacer lo mas facil para un niño de 12 años.
