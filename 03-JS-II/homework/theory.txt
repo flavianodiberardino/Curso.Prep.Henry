@@ -1,0 +1,16 @@
+"for": imagina que tenemos una fila con 100 personas y entre esas 100 perosnas queremos conseguir
+a la persona numero 50. Es en ese momento donde el ciclo for es nuestor mejor amigo, para que 
+el ciclo for nos pueda servir debemos darle tres datos un valor 0 que es desde donde inicia la busqueda,
+una condicion que seria hasta donde queremos buscar y por ultimo un incremento a nuestro valor inicial 
+para que en un caso base vaya buscando uno por uno desde el cero hasta conseguir al 50.
+
+Operadores logicos: estos nos sirven para combinar dos condiciones a un mismo resultado. Supongamos que tenemos dos valores (20 y 50) y queremos comparar estos valores por separado pero el
+resultado de las comparaciones, si se cumplen, seria el mismo. Es ahi donde nos sirven los operadores logicos. Por ejemplo, yo quiero que si 20 es mayor que 10 me diga si es verdad o es mentira
+pero tambien quiero saber si 50 es menor que 30 ¿Como hago? Pues lo escribiriamos asi: 
+
+if (20 > 10 && 50 < 30) {
+    return true o false(depende del caso)
+}
+
+Aqui lo que estamos diciendo es que si las dos condiciones se cumplen me diga "Oye si, si se cumplieron". Lo cual esmuy importante ya que si mis condiciones no tienen un mismo resultado siempre 
+va a devolver el resultado de la primera condicion.
