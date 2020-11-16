@@ -1,0 +1,2 @@
+Array: basicamente un array es una varible donde podemos guardar una serie de valores y esto lo declaramos con "[]".
+A esto comunmente lo llamamos una cadena de caracteres o por su propio nombre "Array".
