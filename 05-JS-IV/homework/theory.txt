@@ -1,0 +1,11 @@
+Objetos: los objetos son como un cuaderno de donde guardamos muchos datos sobre una sola cosa como por ejemplo una persona. Todos estos datos
+sobre esta persona lo podemos guardar dentro de este libro que llamamos objetos.
+Propiedades: las propiedades pueden ser las caracteristicas de esta persona como ya sabemos una persona tiene un nombre, apellido, edad,
+sexo, entre otros. Estas caracteristicas que definen a la persona es lo que llamamos propiedades.
+Métodos: un metodo podrian ser acciones que toma esta persona como por ejemplo pintar, correr, hablar, entre otros. 
+Bucle `for…in`: el for…in es una forma que tenemos de saber o recorrer de manera rapida y facil todas las caracteristicas que queramos saber
+sobre esta persona.
+Notación de puntos vs notación de corchetes: las dos tienen la misma funcion y basicamente son lo mismo, nos sirven para acceder a una
+caracteristica que queramos saber sobre esta persona. La unica diferencia es que con notacion de punto no podemos acceder a caracteristicas
+que tengan nombres de mas de una palabra. Por lo que si una caracteristica de esta persona esta definida como "numero de mascotas" y queremos
+saber cual es el numero de mascotas solo podremos acceder usando la notacion de corchetes.
