@@ -1,0 +1,3 @@
+`prototype`: los prototipos basicamente un objeto base que hereda metodos y propiedades. Esto es asi sucesivamente ya que dentro de un objeto
+prototipo podemos tener otro objeto prototipo y asi hasta llegar al "Object" que se podria decir es el padre de todos los demas prototipos.
+_Constructors_ (de Clases): los constructores suelen ser metodos que llamamos cuando es momento de crear nuestras instancias dentro de las clases.
