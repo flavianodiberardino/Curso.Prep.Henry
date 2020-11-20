@@ -1,0 +1,3 @@
+Funciones Callback: los callback son basicamente una funcion que ejecuta una accion la cual le pasamos como argumento a otra funcion para que
+luego esta se invoque dentro de la funcion y ejecute una accion o una serie de cosas que queramos que haga. Es una manera mas facil y directa
+de tomar una accion dentro de una funcion.
