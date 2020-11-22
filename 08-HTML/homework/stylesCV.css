@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-content: flex-start;
+    align-items: center;
+    background-color: black;
+}
+
+h2 {
+    color: red;
+}
+
+h3 {
+    color: red;
+}
+
+h4 {
+    color: red;
+}
+#firstDiv {
+    align-self: start;
+    width: 300px;
+    padding: 50px;
+    background-color: bisque;
+    font-size: 14px;
+    border: 10px solid red;
+}
+
+#secondDiv {
+    width: 600px;
+    background-color: bisque;
+    padding: 25px;
+    border: 10px solid red;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    height: 280px;
+    width: 200px;
+    border: 5px solid black;
+}
