@@ -1,0 +1,44 @@
+h1 { 
+    color: firebrick;
+}
+
+h3 {
+    color: blanchedalmond;
+}
+
+h4 {
+    color: blanchedalmond;
+}
+
+a {
+    color: cornflowerblue;
+}
+#spanId {
+    color: blanchedalmond;
+    font-size: 18px; 
+    margin: 50px;
+}
+
+#thirdDiv {
+    height: 600px; 
+    width: 500px; 
+    background-color: firebrick; 
+    padding: 50px; 
+    border: 10px solid blanchedalmond; 
+}
+
+img { 
+    width: 400px;
+    height: 280px; 
+}
+
+body {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    background-color: transparent;
+    background-image: url("https://www.solofondos.com/wp-content/uploads/2015/11/fondo.png;");
+    text-align: center;
+}
